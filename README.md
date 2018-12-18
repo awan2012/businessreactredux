@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-
+[Demo](https://reactredux-landing-temp.herokuapp.com/)
 
 Custom libraries are mentioned below which we used in CLI<br>
 
